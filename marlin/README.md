@@ -2,6 +2,6 @@
 
 In the Configuration and Configuration_adv files I have noted changes with P-EDIT.
 
-I have exported those changes and put them into markdown files for each config file.
+The Config files are in the `Marlin` folder.
 
-The Config files are in the `Marlin` folder there.
+These are based on the Marlin Configurations for the [Ender 3 pro](https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.1.x/config/examples/Creality/Ender-3%20Pro/BigTreeTech%20SKR%20Mini%20E3%203.0)
